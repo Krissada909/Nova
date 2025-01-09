@@ -1,0 +1,54 @@
+﻿Sender,Subject,Urgency,Tags,Ticket Type,Reply Time
+NOVA,"Re: New update in INC-657348 AI-OCR/ PO/PID 2501015142-002 / Cus.Code 170010341 : อ่านเลขที่ PO ผิด, ไม่อ่าน UOM",Medium,,INC-657348,2025-01-08 13:48:06+00:00
+NOVA,"Re: New update in INC-657155 AI-OCR/ PO/PID 2501015337-002 / Cus.Code 170012784 : อ่านเลขที่ PO ไม่ครบ, ไม่อ่าน UOM",Medium,,INC-657155,2025-01-08 10:47:16+00:00
+NOVA,Re: New update in INC-657165 AI-OCR/ PO/PID 2501015501-003 / Cus.Code 170018283 : อ่านรายการสินค้าไม่ครบ,Medium,,INC-657165,2025-01-08 11:06:29+00:00
+NOVA,"Re: New update in INC-657335 AI-OCR/ PO/PID 2501016372-002 / Cus.Code 170254357 : อ่านรหัสสินค้าไม่ครบทุก item, หย่อนรหัสสินค้าไม่ตรงช่อง, อ่าน Desc เกิน",Low,,SR-657335,2025-01-08 13:47:23+00:00
+NOVA,Re: New update in INC-657294 AI-OCR/ PO/PID 2501016051-004 / Cus.Code 170042648 : อ่านเลขที่ PO ไม่ตรง,Medium,,INC-657294,2025-01-08 13:47:36+00:00
+NOVA,"Re: New update in INC-657348 AI-OCR/ PO/PID 2501015142-002 / Cus.Code 170010341 : อ่านเลขที่ PO ผิด, ไม่อ่าน UOM",Medium,,INC-657348,2025-01-08 13:48:06+00:00
+NOVA,Re: New update in INC-657357 AI-OCR/ PO/PID 2501015746-002 / Cus.Code 170274676 : อ่านราคาสินค้าผิด,Medium,,INC-657357,2025-01-08 13:48:44+00:00
+NOVA,"Re: New update in INC-657552 AI-OCR/ PO/PID 2501016233-003 / Cus.Code 170274145 : อ่านราคาสินค้าไม่ convert  Vat, AI อ่าน item เพิ่มขึ้นมา",Medium,INC-657552,2025-01-08 16:01:01+00:00
+NOVA,Re: New update in INC-657556 AI-OCR/ PO/PID 2501014016-006 / Cus.Code 170271777 : ไม่อ่านรายการแถม,Medium,INC-657556,2025-01-08 16:02:16+00:00
+NOVA,Re: New update in INC-657563 AI-OCR/ PO/PID 2501013851-004 / Cus.Code 170007901 : รายการที่ 4-5 เป็นสินค้าเดียวกัน อ่านได้ตรงตาม PO แต่ DMS แสดงเป็นคนละโค้ดกัน,Medium,INC-657563,2025-01-08 16:08:37+00:00
+NOVA,"Re: New update in INC-657569 AI-OCR/ PO/PID 2501015142-004 / Cus.Code 170010341 : อ่านเลขที่ PO ผิด, อ่านรายการสินค้าไม่ครบทุก item, ไม่อ่าน UOM",Medium,INC-657569,2025-01-08 16:13:36+00:00
+NOVA,Re: New update in INC-657587 AI-OCR/ PO/PID 2501015084-004 / Cus.Code 170128419 : สอนน้องแล้วมารีเฟรช มีตัวแถมขึ้นเพิ่ม,Medium,INC-657587,2025-01-08 16:51:24+00:00
+NOVA,"Re: New update in INC-657617 AI-OCR/ PO/PID 2501015142-006 / Cus.Code 170010341 : อ่านเลขที่ PO ผิด, ไม่อ่าน UOM, item3 จำนวน+ราคา สลับช่อง,  เสอนน้องแล้วกด save หน้าจอจะแสดงรายการแถมเพิ่มขึ้นมา",Medium,INC-657617,2025-01-08 16:52:03+00:00
+NOVA,Re: New update in INC-657626 AI-OCR/ PO/PID 2501015142-005 / Cus.Code 170010341 : อ่านรายการสินค้า UOM ไม่ครบทุก item,Medium,INC-657626,2025-01-08 16:52:39+00:00
+NOVA,Re: New update in INC-657630 AI-OCR/ PO/PID 2501015472-002 / Cus.Code 170024758 : สอนน้องแล้วรีเฟรช มีตัวแถมขึ้นเพิ่ม,Medium,INC-657630,2025-01-08 16:53:15+00:00
+NOVA,"Re: New update in INC-657643 AI-OCR/ PO/PID 2501016919-002 / Cus.Code 170023400 : อ่านราคาไม่ convert Vat, สอนน้องแล้วรีเฟรช มีตัวแถมขึ้นเพิ่ม",Medium,INC-657643,2025-01-08 16:54:32+00:00
+NOVA,"Re: New update in INC-657647 AI-OCR/ PO/PID 2501016506-003 / Cus.Code 170254762 : อ่านเลขที่ PO ผิด, ไม่อ่าน UOM",Medium,INC-657647,2025-01-08 16:55:30+00:00
+NOVA,"Re: New update in INC-657655 AI-OCR/ PO/PID 2501016760-002 / Cus.Code 170007370 : อ่านเลขที่ PO ผิด, หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน, สอนน้องแล้วกด save แสดงรายการแถมเพิ่มขึ้น",Medium,INC-657655,2025-01-08 17:08:54+00:00
+NOVA,"Re: New update in INC-657660 AI-OCR/ PO/PID 2501017280-002 / Cus.Code 170025833 : ไม่ระบุ Ship to, หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน, ไม่อ่านรายการแถม, อ่านจำนวน+ราคาผิด",Medium,INC-657660,2025-01-08 17:09:50+00:00
+NOVA,Re: New update in INC-657668 AI-OCR/ PO/PID 2501015376-003 / Cus.Code 170036515 : สอนน้อง แล้วส่วนแถมมาเกิน ราคาหายไป,Medium,INC-657668,2025-01-08 17:26:10+00:00
+NOVA,Re: New update in INC-657672 AI-OCR/ PO/PID 2501017280-003 / Cus.Code 170025833 : ไม่ระบุ Ship to,Medium,INC-657672,2025-01-08 17:26:46+00:00
+NOVA,Re: New update in INC-657677 AI-OCR/ PO/PID 2501017280-005 / Cus.Code 170025833 : ไม่ระบุ Ship to,Medium,INC-657677,2025-01-08 17:28:41+00:00
+NOVA,"Re: New update in INC-657681 AI-OCR/ PO/PID 2501017280-006 / Cus.Code 170025833 : ไม่ระบุ Ship to, ไม่อ่านรหัสสินค้า,  หย่อนรหัสสินค้าไม่ตรงช่อง, อ่าน Desc เกิน",Low,SR-657681,2025-01-08 17:29:46+00:00
+NOVA,Re: New update in INC-657686 AI-OCR/ SO-Medtronic/PID 2501010620-006 / Cus.Code 170223676 : Payment ไม่ได้เลือก แต่ขึ้น Z030,Medium,INC-657686,2025-01-08 17:30:32+00:00
+NOVA,"Re: New update in INC-657692 AI-OCR/ PO/PID 2501017280-007 / Cus.Code 170025833 : Ship to ไม่ถูกต้อง, หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน",Medium,INC-657692,2025-01-08 17:34:06+00:00
+NOVA,Re: New update in INC-657695 AI-OCR/ PO/PID 2501016008-002 / Cus.Code 170034090 : สอนน้อง แล้วส่วนแถมมาเกิน ราคาเปลี่ยน,Medium,INC-657695,2025-01-09 08:04:43+00:00
+NOVA,Re: New update in INC-657697 AI-OCR/ PO/PID 2501016208-002 / Cus.Code 170007901 : สอนน้องแล้วรีเฟรช มีตัวแถมขึ้นเพิ่ม,Medium,INC-657697,2025-01-09 08:05:29+00:00
+NOVA,"Re: New update in INC-657699 AI-OCR/ PO/PID 2501017280-008 / Cus.Code 170025833 : Ship to ไม่ถูกต้อง, หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน",Medium,INC-657699,2025-01-09 08:06:01+00:00
+NOVA,"Re: New update in INC-657700 AI-OCR/ PO/PID 2501017280-009 / Cus.Code 170025833 : Ship to ไม่ถูกต้อง, หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน",Medium,INC-657700,2025-01-09 08:06:42+00:00
+NOVA,Re: New update in INC-657702 AI-OCR/ PO/PID 2501017599-002 / Cus.Code 170007901 : สอนน้องแล้วรีเฟรช มีตัวแถมขึ้นเพิ่ม,Medium,INC-657702,2025-01-09 08:07:22+00:00
+NOVA,Re: New update in INC-657883 AI-OCR/ PO/PID 2501017122-010 / Cus.Code 170027464 : ไม่อ่านข้อมูลสินค้า,Medium,INC-657883,2025-01-09 08:52:35+00:00
+NOVA,Re: New update in INC-657876 AI-OCR/ PO/PID 2501015616-003 / Cus.Code 170033573 : เลขที่ PO ไม่ครบ,Medium,INC-657876,2025-01-09 08:53:17+00:00
+NOVA,Re: New update in INC-657888 AI-OCR/ PO/PID 2501017467-002 / Cus.Code 170010712 : ไม่อ่าน UOM,Medium,INC-657888,2025-01-09 08:54:32+00:00
+NOVA,Re: New update in INC-657893 AI-OCR/ PO/PID 2501017595-002 / Cus.Code 170023400 : อ่านราคาไม่ convert Vat,Medium,INC-657893,2025-01-09 09:02:40+00:00
+NOVA,"Re: New update in INC-657899 AI-OCR/ PO/PID 2501017698-004 / Cus.Code 170036216 : หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน",Medium,INC-657899,2025-01-09 09:03:22+00:00
+NOVA,"Re: New update in INC-657921 AI-OCR/ SO-Medtronic/PID 2501018218-009 / Cus.Code 170016866 : อ่านเลขที่ PO ผิด, ไม่อ่าน complete bill",Medium,INC-657921,2025-01-09 09:22:43+00:00
+NOVA,Re: New update in INC-657923 AI-OCR/ FOC /PID2501013683 /   : อ่านจำนวน สินค้าไม่ตรงตาม form,Medium,INC-657923,2025-01-09 09:23:17+00:00
+NOVA,Re: New update in INC-657931 AI-OCR/ PO/PID 2501017698-005 / Cus.Code 170036216 : ไม่อ่านรหัสสินค้า,Medium,INC-657931,2025-01-09 09:24:00+00:00
+NOVA,Re: New update in INC-657944 AI-OCR/ PO/PID 2501017698006 Cus.Code 170036216:  อ่านรหัสสินค้ารวมกับชื่อสินค้า,Medium,INC-657944,2025-01-09 09:34:12+00:00
+NOVA,Re: New update in INC-657955 AI-OCR/ PO/PID 2501017710002/ Cus.Code 170023400: อ่านรหัสสินค้ารวมกับชื่อสินค้า,Medium,INC-657955,2025-01-09 09:36:57+00:00
+NOVA,Re: New update in INC-657979 AI-OCR/ FOC/PID 2501017673 003 / Cus.Code 00000000  : ไม่อ่าน Order Reason ตามเอกสารระบุ,Medium,INC-657979,2025-01-09 09:51:36+00:00
+NOVA,Re: New update in INC-657991 AI-OCR/ PO/PID 2501017698 007/ Cus.Code 170036216: อ่านรหัสสินค้ารวมกับชื่อสินค้า,Medium,INC-657991,2025-01-09 10:02:22+00:00
+NOVA,Re: New update in INC-657999 AI-OCR/ SO/PID 2501012111 003/ Cus.Code 00000000  : ไม่อ่าน Complete Delivery/ พิมพ์บิลตาม PO ตามเอกสาร,Medium,INC-657999,2025-01-09 10:03:06+00:00
+NOVA,Re: New update in INC-658049 AI-OCR/ PO/PID 2501017698 012/ Cus.Code 170036216  : อ่านรหัสสินค้ารวมกับชื่อสินค้า,Medium,INC-658049,2025-01-09 10:51:08+00:00
+NOVA,Re: New update in INC-658042 AI-OCR/ PO/PID 2501017698 008/ Cus.Code 170036216:  ไม่อ่านรหัสสินค้าตามเอกสารระบุ,Medium,INC-658042,2025-01-09 10:51:45+00:00
+NOVA,Re: New update in INC-658085 AI-OCR/ PO/PID 2501017698 008/ Cus.Code 170036216  : ไม่อ่านรหัสสินค้าตามเอกสารระบุ,Medium,INC-658085,2025-01-09 10:52:31+00:00
+NOVA,"Re: New update in INC-658057 AI-OCR/ PO/PID 2501017698-006 / Cus.Code 170036216 : หย่อนรหัสสินค้าผิดช่อง, อ่าน Desc เกิน",Medium,INC-658057,2025-01-09 10:53:15+00:00
+NOVA,Re: New update in INC-658108 AI-OCR/ PO/PID 2501018509 002 / Cus.Code 170022636 : อ่านจำนวน ราคา ไม่ครบตามเอกสาร,Medium,INC-658108,2025-01-09 10:57:28+00:00
+NOVA,Re: New update in INC-658131 AI-OCR/ PO/PID 2501018568 002/ Cus.Code 170022636 : ชื่อสินค้าอ่านข้อความไม่เกี่ยวข้องมาด้วย / QTY / UOM / ราคาต่อหน่วย,Medium,INC-658131,2025-01-09 11:16:22+00:00
+NOVA,New update in INC-658159 AI-OCR/ PO/PID 2501019183 002/ Cus.Code 170078136: UOM อ่านไม่ครบตามเอกสาร,Low,SR-658159,2025-01-09 11:35:48+00:00
+NOVA,Re: New update in INC-658136 AI-OCR/ SO/PID 2412065146 001/ Cus.Code 00000000  : อ่านเลข PO ไม่ตรงตามเอกสาร,Medium,INC-658136,2025-01-09 11:37:23+00:00
+NOVA,Re: New update in INC-658145 AI-OCR/ PO/PID 2501017698 002/ Cus.Code170036216  : อ่านรหัสสินค้าไม่ครบ/ อ่านรหัสสินค้ารวมกับชื่อสินค้า,Medium,INC-658145,2025-01-09 11:40:30+00:00
+NOVA,Re: New update in INC-658159 AI-OCR/ PO/PID 2501019183 002/ Cus.Code 170078136: UOM อ่านไม่ครบตามเอกสาร,Low,SR-658159,2025-01-09 11:49:30+00:00
